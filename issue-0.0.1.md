@@ -1,4 +1,4 @@
-# [great-web](https://github.com/cybercongress/great-web) 0.0.1
+# Time stoppers
 
 ## Zeitgeist
 
