@@ -1,24 +1,24 @@
 # The Great Web journal
 
-There are so much of amazing crypto development happens right now accross communities. I believe that our movement needs better feeling of direction. The Great Web journal try to fill a visionary gap behind the most important transformation in contemporary history.
+There are so much of amazing crypto development happens right now across communities. I believe that our movement needs better feeling of direction. The Great Web journal try to fill a visionary gap behind the most important transformation in contemporary history.
 
 ## Why the new Web is Great?
 
-Because due to underlyig properties thousand of years in the future it will remain **permanent**, **trustful** and **accesseble** thanks to the follwing properties:
+Because due to underlying properties thousand of years in the future the Great Web will remain **permanent**, **trustful** and **accessible** thanks to the following properties:
 - Content addressing allow us to have links which will lasts for centuries
 - Cryptographic proofs allow us to differentiate the truth
 - Open source is the only way to trust the underlying cyberware
 
 ## Issues
-- 
+- [Issue 0.0.1](/issue-0.0.1.md)
 
 ## Can I pull request something into issue?
 
-Of course! The journal is collaborative, but the final desicion is up to chief editor: [@xhipster](https://github.com/xhipster). Releases will be cut at the first day of month. The software must be fresh, so there is hard requirement to be released in the month of the issue. For other content there is no such requirement.
+Of course! The journal is collaborative, but the final decision is up to chief editor: [@xhipster](https://github.com/xhipster). Releases will be cut at the first day of month. The software must be fresh, so there is hard requirement to be released in the month of the issue. For other content there is no such requirement.
 
 ## Which content are we looking for including in the issues?
 
-Releases of software is the main focus. The most important aspect of the great web is becasue all that magic sofware works indeed. Academic whitepapers, in-depth articles, make sense podcasts and creative videos will be also included in the issue, but in standalone section.
+Releases of software is the main focus. The most important aspect of the Great Web is because all that magic software works indeed. Academic whitepapers, in-depth articles, make sense podcasts and creative videos will be also included in the issue, but in standalone section.
 
 ## Design considerations
 
