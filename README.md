@@ -35,3 +35,7 @@ Releases of software is the main focus. The most important aspect of the Great W
 - The desciption must not be more than 1 line
 - All links must be content addresable
 - The content behind links have to help humanity evolve
+
+## Subscribe
+
+Watch release-only to get notification about next issue
